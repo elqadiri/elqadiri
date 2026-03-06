@@ -2,14 +2,14 @@
 
 <p align="left">
 Hi there 👋, I'm <b>Hamza ELQADIRI</b><br>
-Big Data & Data Engineering student from Morocco 🇲🇦<br>
+Data Engineering student from Morocco 🇲🇦<br>
 Welcome to my GitHub profile!
 </p>
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-🎓 I hold a Bachelor's degree in <b>Data Analysis</b> and I am currently pursuing a Master's degree in <b>Computer Engineering – Big Data & Data Engineering</b>.<br><br>
+🎓 I hold a Bachelor's degree in <b>Data Analysis</b> and I am currently pursuing a Master's degree in <b>Computer Engineering – Data Engineering</b>.<br><br>
 
 💡 My background also includes academic experience in <b>Data Science and Artificial Intelligence</b>, where I developed strong knowledge in machine learning, data preprocessing, and data analysis.<br><br>
 
